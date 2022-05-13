@@ -1,4 +1,5 @@
 # fortune-cookie
+# HTML, CSS, Javascript used.
 
 
 https://js-fortune-cookie.netlify.app/
@@ -7,4 +8,5 @@ https://js-fortune-cookie.netlify.app/
 
 
 
-![cookie](https://user-images.githubusercontent.com/24884380/163885553-92c6e6d6-7038-401c-b72d-98c085f2b056.jpg)
+
+![fortune](https://user-images.githubusercontent.com/24884380/168199505-2d6370bc-cf24-4675-ab48-3e17f9f972f4.jpg)
