@@ -8,13 +8,13 @@ function fun() {
     } else if(userNum === 2) {
         document.querySelector("#placeToSee").innerText = "Don’t pursue happiness – create it.";
 } else if(userNum === 3) {
-        document.querySelector("#placeToSee").innerText = "All things are difficult before they are easy.";
+        document.querySelector("#placeToSee").innerText = "You have rice in your teeth.";
 } else if(userNum === 4) {
         document.querySelector("#placeToSee").innerText = "A ship in harbor is safe, but that’s not why ships are built.";
 } else if(userNum === 5) {
         document.querySelector("#placeToSee").innerText = "Big journeys begin with a single step.";
 } else if(userNum === 6) {
-        document.querySelector("#placeToSee").innerText = "People learn little from success, but much from failure.";
+        document.querySelector("#placeToSee").innerText = "This cookie contains 117 calories.";
 } else if(userNum === 7) {
         document.querySelector("#placeToSee").innerText = "Keep going! You've got this!";
 } else if(userNum === 8) {
@@ -26,7 +26,7 @@ function fun() {
 } else if(userNum === 11) {
         document.querySelector("#placeToSee").innerText = "Every new beginning comes from some other beginning's end.";
 }else if(userNum === 12) {
-        document.querySelector("#placeToSee").innerText = "You are not what you've done. You are what you keep doing.";
+        document.querySelector("#placeToSee").innerText = "Don’t eat the paper.";
 }else if(userNum === 13) {
         document.querySelector("#placeToSee").innerText = "Do not let making a living prevent you from making a life.";
 }else if(userNum === 14) {
@@ -53,8 +53,18 @@ function fun() {
         document.querySelector("#placeToSee").innerText = "Some people dream of fortunes, others dream of cookies.";
 }else if(userNum === 25) {
         document.querySelector("#placeToSee").innerText = "You will be hungry again in one hour.";
+}else if(userNum === 26) {
+        document.querySelector("#placeToSee").innerText = "People learn little from success, but much from failure.";
+}else if(userNum === 27) {
+        document.querySelector("#placeToSee").innerText = "All things are difficult before they are easy.";
+}else if(userNum === 28) {
+        document.querySelector("#placeToSee").innerText = "You are not what you've done. You are what you keep doing.";
+}else if(userNum === 29) {
+        document.querySelector("#placeToSee").innerText = "Actions speak louder than fortune cookies.";
+}else if(userNum === 30) {
+        document.querySelector("#placeToSee").innerText = "Someone will invite you to a Karaoke party.";
 }else {
-    document.querySelector("#placeToSee").innerText = "Pick a number 1 through 25 please!";
+    document.querySelector("#placeToSee").innerText = "Pick a number 1 through 30 please!";
 }
 }
 
