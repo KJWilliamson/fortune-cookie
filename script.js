@@ -23,8 +23,28 @@ function fun() {
         document.querySelector("#placeToSee").innerText = "All of your hard work and dedication will pay off.";
 } else if(userNum === 10) {
         document.querySelector("#placeToSee").innerText = "You're so close to everything you dream of.";
-} else {
-    document.querySelector("#placeToSee").innerText = "Pick a number 1 through 10 please!";
+} else if(userNum === 11) {
+        document.querySelector("#placeToSee").innerText = "Every new beginning comes from some other beginning's end.";
+}else if(userNum === 12) {
+        document.querySelector("#placeToSee").innerText = "You are not what you've done. You are what you keep doing.";
+}else if(userNum === 13) {
+        document.querySelector("#placeToSee").innerText = "Do not let making a living prevent you from making a life.";
+}else if(userNum === 14) {
+        document.querySelector("#placeToSee").innerText = "Always do your best. What you plant now, you will harvest later.";
+}else if(userNum === 15) {
+        document.querySelector("#placeToSee").innerText = "About time I got out of that cookie!";
+}else if(userNum === 16) {
+        document.querySelector("#placeToSee").innerText = "If you eat something & nobody sees you eat it, it has no calories.";
+}else if(userNum === 17) {
+        document.querySelector("#placeToSee").innerText = "Don't be afraid to take that big step!";
+}else if(userNum === 18) {
+        document.querySelector("#placeToSee").innerText = "Ignore previous cookie.";
+}else if(userNum === 19) {
+        document.querySelector("#placeToSee").innerText = "I cannot help you, for I am just a cookie.";
+}else if(userNum === 20) {
+        document.querySelector("#placeToSee").innerText = "You don't have to be faster than the bear, you just have to be faster than the slowest guy running from it.";
+}else {
+    document.querySelector("#placeToSee").innerText = "Pick a number 1 through 20 please!";
 }
 }
 
