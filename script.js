@@ -43,8 +43,18 @@ function fun() {
         document.querySelector("#placeToSee").innerText = "I cannot help you, for I am just a cookie.";
 }else if(userNum === 20) {
         document.querySelector("#placeToSee").innerText = "You don't have to be faster than the bear, you just have to be faster than the slowest guy running from it.";
+}else if(userNum === 21) {
+        document.querySelector("#placeToSee").innerText = "This cookie is never gonna give you up, never gonna let you down.";
+} else if(userNum === 22) {
+        document.querySelector("#placeToSee").innerText = "That wasn't chicken.";
+}else if(userNum === 23) {
+        document.querySelector("#placeToSee").innerText = "You are about to finish reading a fortune cookie.";
+}else if(userNum === 24) {
+        document.querySelector("#placeToSee").innerText = "Some people dream of fortunes, others dream of cookies.";
+}else if(userNum === 25) {
+        document.querySelector("#placeToSee").innerText = "You will be hungry again in one hour.";
 }else {
-    document.querySelector("#placeToSee").innerText = "Pick a number 1 through 20 please!";
+    document.querySelector("#placeToSee").innerText = "Pick a number 1 through 25 please!";
 }
 }
 
