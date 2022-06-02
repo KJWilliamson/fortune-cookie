@@ -1,5 +1,7 @@
 # fortune-cookie
-# Built with HTML, CSS, Javascript.
+
+
+HTML, CSS, Javascript.
 
 
 https://js-fortune-cookie.netlify.app/
