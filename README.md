@@ -7,9 +7,5 @@ https://js-fortune-cookie.netlify.app/
 
 
 
-
-
-
-![fortune](https://user-images.githubusercontent.com/24884380/168199505-2d6370bc-cf24-4675-ab48-3e17f9f972f4.jpg)
-
+![fortunecookie](https://user-images.githubusercontent.com/24884380/195223139-0e122350-047b-4271-997b-0271fb45d7df.jpg)
 
